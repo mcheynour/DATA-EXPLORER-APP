@@ -1,4 +1,4 @@
-# DATA-EXPLORER-APP 📊
+# DATA EXPLORER APP 📊
 
 An interactive web application that automatically analyzes any CSV file and generates descriptive statistics, KPIs insights and data visualizations (no coding required).
 
@@ -33,7 +33,7 @@ An interactive web application that automatically analyzes any CSV file and gene
 
 ---
 
-# Project Structure
+# Project structure
 data-explorer-app/
 
 ├── data-explorer.py        # Main Streamlit application
@@ -47,4 +47,3 @@ data-explorer-app/
 # Author
 [LinkedIn](www.linkedin.com/in/marie-cheynour-mchangama) | [GitHub](https://github.com/mcheynour)
 
----
