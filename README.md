@@ -30,9 +30,11 @@ An interactive web application that automatically analyzes any CSV file and gene
 # Project Structure
 data-explorer-app/
 ├── data-explorer.py        # Main Streamlit application
+
 ├── requirements.txt        # Python dependencies
+
 └── README.md               # Project documentation
 
 
-## 👩‍💻 Author
-TON PRENOM NOM — [LinkedIn](TON-LIEN-LINKEDIN) | [GitHub](TON-LIEN-GITHUB)
+# Author
+[LinkedIn](www.linkedin.com/in/marie-cheynour-mchangama) | [GitHub](https://github.com/mcheynour)
